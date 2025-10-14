@@ -305,3 +305,5 @@ In order to create a pool it has to go through the Governance process (more on t
 
 Once your proposal is ready you can submit it to the network. Please follow the official governance process to increase
 the chances of getting your proposal accepted.
+
+<!-- Auto-update: 2025-10-14T16:26:42.976192 -->
